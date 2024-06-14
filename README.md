@@ -2,5 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genesis12345678&show_icons=true&theme=vue-dark)
 
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jky00914)](https://solved.ac/jky00914)
+[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=BOJ)](https://solved.ac/jyj9892)
