@@ -2,4 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genesis12345678&show_icons=true&theme=vue-dark)
 
-[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=BOJ)](https://solved.ac/jyj9892)
+[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj9892)](https://solved.ac/jyj9892)
